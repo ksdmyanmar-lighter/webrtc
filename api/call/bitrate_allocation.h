@@ -7,13 +7,13 @@
  *  in the file PATENTS.  All contributing project authors may
  *  be found in the AUTHORS file in the root of the source tree.
  */
-#ifndef API_CALL_BITRATE_ALLOCATION_H_
-#define API_CALL_BITRATE_ALLOCATION_H_
+//ifndef API_CALL_BITRATE_ALLOCATION_H_
+//define API_CALL_BITRATE_ALLOCATION_H_
 
-#include "api/units/data_rate.h"
-#include "api/units/time_delta.h"
+//include "api/units/data_rate.h"
+//include "api/units/time_delta.h"
 
-namespace webrtc {
+//namespace webrtc {
 
 // BitrateAllocationUpdate provides information to allocated streams about their
 // bitrate allocation. It originates from the BitrateAllocater class and is
