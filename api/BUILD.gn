@@ -6,13 +6,13 @@
 # in the file PATENTS.  All contributing project authors may
 # be found in the AUTHORS file in the root of the source tree.
 
-import("../webrtc.gni")
+# import("../webrtc.gni")
 if (is_android) {
   import("//build/config/android/config.gni")
   import("//build/config/android/rules.gni")
 }
 
-group("api") {
+# group("api") {
   visibility = [ "*" ]
   deps = []
 
