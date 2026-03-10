@@ -3,10 +3,10 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: MSBuild
+#name: MSBuild
 
-on:
-  push:
+#on:
+  push:#
     branches: [ "telegram" ]
   pull_request:
     branches: [ "telegram" ]
