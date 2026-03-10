@@ -7,7 +7,7 @@
  *  in the file PATENTS.  All contributing project authors may
  *  be found in the AUTHORS file in the root of the source tree.
  */
-
+/*
 #ifndef API_ADAPTATION_RESOURCE_H_
 #define API_ADAPTATION_RESOURCE_H_
 
@@ -64,4 +64,4 @@ class RTC_EXPORT Resource : public rtc::RefCountInterface {
 
 }  // namespace webrtc
 
-#endif  // API_ADAPTATION_RESOURCE_H_
+#endif  // API_ADAPTATION_RESOURCE_H_*/
