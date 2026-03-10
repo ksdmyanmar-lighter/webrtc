@@ -12,12 +12,12 @@
 #  visibility = [ "*" ]
   #sources = [
  #   "resource.cc",
-    "resource.h",
-  ]
-  deps = [
-    "../../api:scoped_refptr",
-    "../../rtc_base:checks",
-    "../../rtc_base:refcount",
-    "../../rtc_base/system:rtc_export",
-  ]
-}
+#    "resource.h",
+#  ]
+#  deps = [
+#    "../../api:scoped_refptr",
+#    "../../rtc_base:checks",
+#    "../../rtc_base:refcount",
+#    "../../rtc_base/system:rtc_export",
+#  ]
+#}
